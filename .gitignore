@@ -162,4 +162,8 @@ cython_debug/
 #.idea/
 
 carvana/data/**
+carvana/dataset/**
 input/*
+
+*.h5
+*.csv
