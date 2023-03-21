@@ -11,6 +11,6 @@ https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction/overview
 https://www.kaggle.com/competitions/carvana-image-masking-challenge
 
 ## Our Solutions
-- [Solutions for Porto seguro's competion](carvana/carvana.ipynb)
+- [Solutions for Porto seguro's competion](porto_segro/porto-seguro.ipynb)
 
-- [Solutions for Carvana competion](porto_segro/porto-seguro.ipynb)
+- [Solutions for Carvana competion](carvana/carvana.ipynb)
